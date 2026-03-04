@@ -119,6 +119,6 @@ ajay = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=120&section=footer" width="100%"/>
 
-*⭐ If you like my profile, consider giving a star to my repos!*
+
 
 </div>
