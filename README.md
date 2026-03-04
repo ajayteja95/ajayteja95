@@ -60,19 +60,6 @@ ajay = {
 
 ---
 
-## 📊 LeetCode Progress
-
-<div align="center">
-
-### 📚 Active Study Plans
-| Plan | Status | Goal |
-|------|--------|------|
-| 🗄️ SQL 50 | 🔄 In Progress | Master SQL for interviews |
-| 🐼 Intro to Pandas | 🔄 In Progress | Python data basics |
-| 🐼 30 Days of Pandas | 🔄 In Progress | Deep data analysis |
-
-</div>
-
 ---
 
 ## 🚀 Projects
